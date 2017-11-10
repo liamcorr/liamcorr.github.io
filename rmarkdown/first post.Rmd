@@ -4,21 +4,35 @@ subtitle: "Testing out GitHub Pages"
 author: "Liam Corrigan"
 date: "November 10, 2017"
 output: 
-  html_document:
+  # html_document:
+  md_document:
     toc: true
     toc_depth: 3
-    toc_float:
-      collapsed: false
-      smooth_scroll: true
-    number_sections: false
-    theme: cerulean
-    highlight: zenburn
+    # toc_float:
+    #   collapsed: false
+    #   smooth_scroll: true
+    # number_sections: false
+    # theme: cerulean
+    # highlight: zenburn
 ---
 
+<!-- 
+This is the heading that gets added to a .md file after it is made
+
+---
+layout: post
+title: "This is a test post for my R blog"
+date: 2016-12-01
+categories: rblog
+tags: R 
+--- 
+
+-->
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
 
 # Hello World
 
