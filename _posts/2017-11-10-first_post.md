@@ -13,18 +13,7 @@ tags: R
     -   [R Code](#r-code)
     -   [Plot](#plot)
 
-<!-- 
-This is the heading that gets added to a .md file after it is made
 
----
-layout: post
-title: "This is a test post for my R blog"
-date: 2016-12-01
-categories: rblog
-tags: R 
---- 
-
--->
 Hello World
 ===========
 
