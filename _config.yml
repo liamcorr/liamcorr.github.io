@@ -11,14 +11,14 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap-3
-tagline: Site Tagline
+title : Liam's blog
+tagline: A blog about data science n stuff
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Liam Corrigan
+  email : liam.corr@gmail.com
+  github : mcorrig4
+  twitter : @liamcorr
+  # feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
@@ -28,7 +28,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://liamcorr.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -103,10 +103,10 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-***'
+        tracking_id : 'UA-25265911-2'
     googleUA :
-        tracking_id : 'UA-***'
-        property_name : 'PROPERTY NAME'
+        tracking_id : 'UA-25265911-2'
+        property_name : 'Github Blog'
     getclicky :
       site_id : 
     mixpanel :
