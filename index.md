@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: welcome to my Blog!
+tagline: My Brain Dump Repo
 ---
 {% include JB/setup %}
 
