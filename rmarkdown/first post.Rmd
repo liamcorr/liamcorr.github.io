@@ -1,0 +1,45 @@
+---
+title: "First Post"
+subtitle: "Testing out GitHub Pages"
+author: "Liam Corrigan"
+date: "November 10, 2017"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float:
+      collapsed: false
+      smooth_scroll: true
+    number_sections: false
+    theme: cerulean
+    highlight: zenburn
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Hello World
+
+Here is my first try at using [github pages](https://github.io/) and rmakrdown to blog some of my work. My first few blog posts are going to be a mess but hopefully over time they will get better :)
+
+# Sample Code
+
+## R Code
+
+```{r}
+print("Hello World!")
+```
+
+## Plot
+
+```{r}
+# Creating a Graph
+attach(mtcars)
+plot(wt, mpg) 
+abline(lm(mpg~wt))
+title("Regression of MPG on Weight")
+```
+
+That's it!
