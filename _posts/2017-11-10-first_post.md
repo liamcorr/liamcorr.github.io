@@ -2,7 +2,7 @@
 layout: post
 title: "This is my First Post"
 subtitle: "Testing out Blogging with R Markdown"
-date: 2016-12-01
+date: 2017-11-10
 categories: rblog
 tags: R 
 --- 
