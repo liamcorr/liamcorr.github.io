@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
 
-   <a href="{{ HOME_PATH }}"> 
+   <a href="{{ BASE_PATH }}"> 
     <title>{{ page.title }}</title>
   </a>
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
@@ -46,7 +46,7 @@
     <div class="container">
       {{ content }}
       <hr>
-      <div class="footer">
+      <div class="bottom-footer">
         <p>
           &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
           <span class="pull-right text-muted">
