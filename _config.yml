@@ -13,7 +13,8 @@ markdown: kramdown
 #
 title : Liam's blog
 tagline: A blog about data science n stuff
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+theme: jekyll-theme-modernist
 author :
   name : Liam Corrigan
   email : liam.corr@gmail.com
