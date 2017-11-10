@@ -7,7 +7,8 @@ highlighter: pygments
 
 # https://help.github.com/articles/migrating-your-pages-site-from-maruku
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-modernist
+# theme: jekyll-theme-cayman
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
@@ -18,7 +19,7 @@ author :
   name : Liam Corrigan
   email : liam.corr@gmail.com
   github : mcorrig4
-  twitter : @liamcorr
+  twitter : liamcorr
   # feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
