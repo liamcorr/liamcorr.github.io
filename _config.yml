@@ -7,6 +7,7 @@ highlighter: pygments
 
 # https://help.github.com/articles/migrating-your-pages-site-from-maruku
 markdown: kramdown
+theme: cayman
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
