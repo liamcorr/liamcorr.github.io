@@ -11,7 +11,7 @@ theme: jekyll-theme-cayman
 # so be sure to set them if your theme uses them.
 #
 title : Liam's Blog
-tagline: A blog about data science 'n' stuff
+tagline: A blog about data science \'n\' stuff
 author :
   name : Liam Corrigan
   email : liam.corr@gmail.com
